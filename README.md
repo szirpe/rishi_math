@@ -24,6 +24,6 @@ Open the Markdown files in Typora for the intended math rendering, including dia
 
 ## Rules for future changes
 
-Use 𝑥 for the unknown and × for multiplication. Keep unchanged terms and equals signs aligned. Show every operation explicitly, place common factors before brackets, and gradually fade the prompts. Follow the full workflow before creating a new tutorial.
+Use 𝑥 for the unknown, × for multiplication, and fraction notation for division (stacked fractions in math blocks; a/b in text). Keep unchanged terms and equals signs aligned. Show every operation explicitly, place common factors before brackets, and gradually fade the prompts. Follow the full workflow before creating a new tutorial.
 
 The workflow file is the source for reusable instructions; mirror it in the complete workbook and parent file. When changing exercises, update the relevant booklet, complete workbook, answers, and revision reminder together. Verify the mathematics and inspect Typora print preview.

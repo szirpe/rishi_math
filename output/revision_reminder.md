@@ -14,7 +14,7 @@
 
 # My math reminder
 
-**Know the symbols.** 𝑥 is an unknown number. × means multiply. 3𝑥 means 3 × 𝑥.
+**Know the symbols.** 𝑥 is an unknown number. × means multiply. 3𝑥 means 3 × 𝑥. A fraction bar means divide: 𝑥/4 means 𝑥 divided by 4.
 
 **Line up your work.** Keep unchanged terms under themselves and equals signs in one column. Carry each term's sign when sorting.
 
@@ -22,9 +22,9 @@
 
 **Two sides:** Simplify each side. Choose an operation to help leave 𝑥 alone. Show the SAME operation on BOTH sides, then simplify. Repeat as needed.
 
-**Undo a move:** Undo +5 with −5; undo −5 with +5; undo ×3 with ÷3; undo ÷3 with ×3. Apply your chosen operation to both sides.
+**Undo a move:** Undo +5 with −5; undo −5 with +5; undo multiplying by 3 by dividing both sides by 3; undo dividing by 3 by multiplying both sides by 3. Apply your chosen operation to both sides.
 
-**Cancel with a reason.** +5 − 5 makes zero. Use diagonal slashes through the signed terms. For multiplication, 3𝑥 ÷ 3 leaves one 𝑥. Matching numbers alone are not a reason to cross them out.
+**Cancel with a reason.** +5 − 5 makes zero. Use diagonal slashes through the signed terms. For multiplication, 3𝑥/3 leaves one 𝑥. Matching numbers alone are not a reason to cross them out.
 
 **Common factor first.** Show every line:
 

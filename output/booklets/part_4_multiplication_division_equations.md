@@ -49,11 +49,13 @@ Practice sections 29–40.
 
 Worked example:
 
-```text
-3𝑥                    = 18
-3𝑥 ÷ 3                = 18 ÷ 3
- 𝑥                    = 6
-```
+$$
+\begin{array}{lcl}
+3\mathit{x} & = & 18 \\[6pt]
+\frac{3\mathit{x}}{3} & = & \frac{18}{3} \\[6pt]
+\phantom{3}\mathit{x} & = & 6
+\end{array}
+$$
 
 **1. 2𝑥 = 14**
 
@@ -79,7 +81,7 @@ _____________________ = ______________
 _____________________ = ______________
 ```
 
-**Think:** Why does 3𝑥 ÷ 3 leave one 𝑥?
+**Think:** Why does 3𝑥/3 leave one 𝑥?
 
 **Scratch work / check:**
 
@@ -96,11 +98,13 @@ Use the number of 𝑥 groups to choose what to divide by.
 
 Worked example:
 
-```text
-32                    = 4𝑥
-32 ÷ 4                = 4𝑥 ÷ 4
-8                     =  𝑥
-```
+$$
+\begin{array}{lcl}
+32 & = & 4\mathit{x} \\[6pt]
+\frac{32}{4} & = & \frac{4\mathit{x}}{4} \\[6pt]
+8 & = & \mathit{x}
+\end{array}
+$$
 
 **1. 24 = 3𝑥**
 
@@ -139,39 +143,47 @@ ______________________________________
 
 # 31  Undo division by multiplying
 
-If 𝑥 ÷ 4 is 6, multiply BOTH sides by 4 to rebuild 𝑥.
+If 𝑥/4 is 6, multiply BOTH sides by 4 to rebuild 𝑥.
 
 Worked example:
 
-```text
-𝑥 ÷ 4                 = 6
-(𝑥 ÷ 4) × 4           = 6 × 4
-𝑥                     = 24
-```
+$$
+\begin{array}{lcl}
+\frac{\mathit{x}}{4} & = & 6 \\[6pt]
+(\frac{\mathit{x}}{4}) \times  4 & = & 6 \times  4 \\[6pt]
+\mathit{x} & = & 24
+\end{array}
+$$
 
-**1. 𝑥 ÷ 3 = 7**
+**1. 𝑥/3 = 7**
 
-```text
-𝑥 ÷ 3                 = 7
-_____________________ = ______________
-_____________________ = ______________
-```
+$$
+\begin{array}{lcl}
+\frac{\mathit{x}}{3} & = & 7 \\[6pt]
+\underline{\hspace{2.9400000000000004cm}} & = & \underline{\hspace{1.9600000000000002cm}} \\[6pt]
+\underline{\hspace{2.9400000000000004cm}} & = & \underline{\hspace{1.9600000000000002cm}}
+\end{array}
+$$
 
-**2. 𝑥 ÷ 5 = 9**
+**2. 𝑥/5 = 9**
 
-```text
-𝑥 ÷ 5                 = 9
-_____________________ = ______________
-_____________________ = ______________
-```
+$$
+\begin{array}{lcl}
+\frac{\mathit{x}}{5} & = & 9 \\[6pt]
+\underline{\hspace{2.9400000000000004cm}} & = & \underline{\hspace{1.9600000000000002cm}} \\[6pt]
+\underline{\hspace{2.9400000000000004cm}} & = & \underline{\hspace{1.9600000000000002cm}}
+\end{array}
+$$
 
-**3. 𝑥 ÷ 6 = 14**
+**3. 𝑥/6 = 14**
 
-```text
-𝑥 ÷ 6                 = 14
-_____________________ = ______________
-_____________________ = ______________
-```
+$$
+\begin{array}{lcl}
+\frac{\mathit{x}}{6} & = & 14 \\[6pt]
+\underline{\hspace{2.9400000000000004cm}} & = & \underline{\hspace{1.9600000000000002cm}} \\[6pt]
+\underline{\hspace{2.9400000000000004cm}} & = & \underline{\hspace{1.9600000000000002cm}}
+\end{array}
+$$
 
 **Think:** Why is multiplying helpful here, while dividing again is not?
 
@@ -190,11 +202,13 @@ Look at what is happening to 𝑥, then choose an operation that undoes it.
 
 Worked example:
 
-```text
-8                     = 𝑥 ÷ 3
-8 × 3                 = (𝑥 ÷ 3) × 3
-24                    = 𝑥
-```
+$$
+\begin{array}{lcl}
+8 & = & \frac{\mathit{x}}{3} \\[6pt]
+8 \times  3 & = & (\frac{\mathit{x}}{3}) \times  3 \\[6pt]
+24 & = & \mathit{x}
+\end{array}
+$$
 
 **1. 7𝑥 = 56**
 
@@ -203,14 +217,14 @@ ______________________________________
 ______________________________________
 ```
 
-**2. 9 = 𝑥 ÷ 4**
+**2. 9 = 𝑥/4**
 
 ```text
 ______________________________________
 ______________________________________
 ```
 
-**3. 𝑥 ÷ 8 = 23**
+**3. 𝑥/8 = 23**
 
 ```text
 ______________________________________
@@ -234,13 +248,15 @@ First undo the added amount. Then divide the remaining equal groups.
 
 Worked example:
 
-```text
-3𝑥 + 4                = 19
-3𝑥 + 4 - 4            = 19 - 4
-3𝑥                    = 15
-3𝑥 ÷ 3                = 15 ÷ 3
- 𝑥                    = 5
-```
+$$
+\begin{array}{lcl}
+3\mathit{x} + 4 & = & 19 \\[6pt]
+3\mathit{x} + 4 - 4 & = & 19 - 4 \\[6pt]
+3\mathit{x} & = & 15 \\[6pt]
+\frac{3\mathit{x}}{3} & = & \frac{15}{3} \\[6pt]
+\phantom{3}\mathit{x} & = & 5
+\end{array}
+$$
 
 <div class="page-break"></div>
 
@@ -298,13 +314,15 @@ Add the same amount to both sides, then divide both sides.
 
 Worked example:
 
-```text
-2𝑥 - 3                = 11
-2𝑥 - 3 + 3            = 11 + 3
-2𝑥                    = 14
-2𝑥 ÷ 2                = 14 ÷ 2
- 𝑥                    = 7
-```
+$$
+\begin{array}{lcl}
+2\mathit{x} - 3 & = & 11 \\[6pt]
+2\mathit{x} - 3 + 3 & = & 11 + 3 \\[6pt]
+2\mathit{x} & = & 14 \\[6pt]
+\frac{2\mathit{x}}{2} & = & \frac{14}{2} \\[6pt]
+\phantom{3}\mathit{x} & = & 7
+\end{array}
+$$
 
 <div class="page-break"></div>
 
@@ -362,13 +380,15 @@ Undo the added amount, then undo division.
 
 Worked example:
 
-```text
-𝑥 ÷ 3 + 2             = 7
-𝑥 ÷ 3 + 2 - 2         = 7 - 2
-𝑥 ÷ 3                 = 5
-(𝑥 ÷ 3) × 3           = 5 × 3
-𝑥                     = 15
-```
+$$
+\begin{array}{lcl}
+\frac{\mathit{x}}{3} + 2 & = & 7 \\[6pt]
+\frac{\mathit{x}}{3} + 2 - 2 & = & 7 - 2 \\[6pt]
+\frac{\mathit{x}}{3} & = & 5 \\[6pt]
+(\frac{\mathit{x}}{3}) \times  3 & = & 5 \times  3 \\[6pt]
+\mathit{x} & = & 15
+\end{array}
+$$
 
 <div class="page-break"></div>
 
@@ -376,7 +396,7 @@ Worked example:
 
 Show every step. Use each line for one change.
 
-**1. 𝑥 ÷ 2 + 4 = 10**
+**1. 𝑥/2 + 4 = 10**
 
 ```text
 ______________________________________
@@ -387,7 +407,7 @@ ______________________________________
 ______________________________________
 ```
 
-**2. 𝑥 ÷ 5 - 3 = 6**
+**2. 𝑥/5 - 3 = 6**
 
 ```text
 ______________________________________
@@ -398,7 +418,7 @@ ______________________________________
 ______________________________________
 ```
 
-**3. 11 = 𝑥 ÷ 4 + 2**
+**3. 11 = 𝑥/4 + 2**
 
 ```text
 ______________________________________
@@ -426,13 +446,15 @@ Treat a bracket as a whole group. You may divide equal groups before opening it.
 
 Worked example:
 
-```text
-2(𝑥 + 3)              = 18
-2(𝑥 + 3) ÷ 2          = 18 ÷ 2
-  𝑥 + 3               = 9
-  𝑥 + 3 - 3           = 9 - 3
-  𝑥                   = 6
-```
+$$
+\begin{array}{lcl}
+2(\mathit{x} + 3) & = & 18 \\[6pt]
+\frac{2(\mathit{x} + 3)}{2} & = & \frac{18}{2} \\[6pt]
+\phantom{3}\mathit{x} + 3 & = & 9 \\[6pt]
+\phantom{3}\mathit{x} + 3 - 3 & = & 9 - 3 \\[6pt]
+\phantom{3}\mathit{x} & = & 6
+\end{array}
+$$
 
 <div class="page-break"></div>
 
@@ -490,15 +512,17 @@ Simplifying like terms can reveal an easier equation.
 
 Worked example:
 
-```text
-2𝑥 + 3 + 𝑥            = 18
-(2𝑥 + 𝑥) + 3          = 18
-3𝑥       + 3          = 18
-3𝑥       + 3 - 3      = 18 - 3
-3𝑥                    = 15
-3𝑥 ÷ 3                = 15 ÷ 3
- 𝑥                    = 5
-```
+$$
+\begin{array}{lcl}
+2\mathit{x} + 3 + \mathit{x} & = & 18 \\[6pt]
+(2\mathit{x} + \mathit{x}) + 3 & = & 18 \\[6pt]
+3\mathit{x}       + 3 & = & 18 \\[6pt]
+3\mathit{x}       + 3 - 3 & = & 18 - 3 \\[6pt]
+3\mathit{x} & = & 15 \\[6pt]
+\frac{3\mathit{x}}{3} & = & \frac{15}{3} \\[6pt]
+\phantom{3}\mathit{x} & = & 5
+\end{array}
+$$
 
 <div class="page-break"></div>
 
@@ -556,13 +580,15 @@ Keep algebra work neat. Use a separate scratch area for longer calculations.
 
 Worked example:
 
-```text
-3𝑥 + 24               = 150
-3𝑥 + 24 - 24          = 150 - 24
-3𝑥                    = 126
-3𝑥 ÷ 3                = 126 ÷ 3
- 𝑥                    = 42
-```
+$$
+\begin{array}{lcl}
+3\mathit{x} + 24 & = & 150 \\[6pt]
+3\mathit{x} + 24 - 24 & = & 150 - 24 \\[6pt]
+3\mathit{x} & = & 126 \\[6pt]
+\frac{3\mathit{x}}{3} & = & \frac{126}{3} \\[6pt]
+\phantom{3}\mathit{x} & = & 42
+\end{array}
+$$
 
 <div class="page-break"></div>
 
@@ -581,7 +607,7 @@ ______________________________________
 ______________________________________
 ```
 
-**2. 𝑥 ÷ 6 - 8 = 19**
+**2. 𝑥/6 - 8 = 19**
 
 ```text
 ______________________________________

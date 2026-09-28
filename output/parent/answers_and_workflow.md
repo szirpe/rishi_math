@@ -116,7 +116,7 @@ Equivalent term orders are acceptable. Ask for the reason behind a step before o
 
 1. Agree on the learning goal, a short mental model, and a sample before building. Keep parent-facing explanations concise.
 2. Write for a fourth grader. Use examples and brief reasoning questions to help the child eventually choose steps independently.
-3. Use italic 𝑥 for the unknown and × for multiplication everywhere: examples, blanks, answers, headings, and revision notes. Explain that 3𝑥 means 3 × 𝑥. In Typora math blocks use `\mathit{x}` and `\times`; in ordinary text and fixed-width blocks use 𝑥 and ×.
+3. Use italic 𝑥 for the unknown and × for multiplication everywhere: examples, blanks, answers, headings, and revision notes. Explain that 3𝑥 means 3 × 𝑥. In Typora math blocks use `\mathit{x}` and `\times`; in ordinary text and fixed-width blocks use 𝑥 and ×. Write division as fractions, using stacked fractions in Typora math blocks and a/b in ordinary text. Use parentheses for an entire numerator such as (12 + 8)/4. Keep fraction steps and equals signs aligned.
 4. Keep unchanged terms directly below themselves and equals signs in one column. Move terms only for an explicit rearrangement, carrying each sign along. Use fixed-width layouts or aligned math arrays.
 5. Show every mathematical step on its own line. Do not skip the product breakdown, the operation applied to both sides, or multiplication of each term inside brackets. Provide enough working lines for the full solution.
 6. Start each new idea with a complete worked example. Progress through empty brackets and missing values, labeled lines, and independent blank lines. Fade prompts, not the expectation to show steps.

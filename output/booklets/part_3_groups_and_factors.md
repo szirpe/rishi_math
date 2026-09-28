@@ -317,7 +317,7 @@ __x                   short form
 
 # 25  Multiply and divide groups
 
-× means multiply; ÷ means divide. 4 × 𝑥 and 4𝑥 mean the same thing.
+× means multiply. A fraction bar means divide: 24/4 means 24 divided by 4. The whole quantity above the bar is divided by the number below it. 4 × 𝑥 and 4𝑥 mean the same thing.
 
 Worked example:
 
@@ -344,19 +344,23 @@ Show every step. Use each line for one change.
 __________
 ```
 
-**2. 24 ÷ 4**
+**2. 24/4**
 
-```text
-24 ÷ 4 = __
-Check: 4 × __ = 24
-```
+$$
+\begin{array}{lcl}
+\frac{24}{4} & = & \underline{\hspace{0.8cm}} \\[6pt]
+\text{Check: }4 \times  \underline{\hspace{0.8cm}} & = & 24
+\end{array}
+$$
 
-**3. 84 ÷ 7**
+**3. 84/7**
 
-```text
-84 ÷ 7 = __
-Check: 7 × __ = 84
-```
+$$
+\begin{array}{lcl}
+\frac{84}{7} & = & \underline{\hspace{0.8cm}} \\[6pt]
+\text{Check: }7 \times  \underline{\hspace{0.8cm}} & = & 84
+\end{array}
+$$
 
 **Think:** How can multiplication check a division answer?
 
@@ -395,7 +399,7 @@ ______________________________________
 ______________________________________
 ```
 
-**3. 18 ÷ 3 + 7**
+**3. 18/3 + 7**
 
 ```text
 ______________________________________
@@ -471,36 +475,44 @@ When the entire sum is divided, each term can be divided. The brackets tell you 
 
 Worked example:
 
-```text
-(12 + 8) ÷ 4
-12 ÷ 4 + 8 ÷ 4
-3      + 2
-5
-```
+$$
+\begin{array}{lcl}
+\frac{(12 + 8)}{4} & &  \\[6pt]
+\frac{12}{4} & + & \frac{8}{4} \\[6pt]
+3 & + & 2 \\[6pt]
+5 & &
+\end{array}
+$$
 
-**1. (18 + 12) ÷ 6**
+**1. (18 + 12)/6**
 
-```text
-(__ ÷ 6) + (__ ÷ 6)
-__       + __
-__________
-```
+$$
+\begin{array}{lcl}
+(\frac{\underline{\hspace{0.8cm}}}{6}) & + & (\frac{\underline{\hspace{0.8cm}}}{6}) \\[6pt]
+\underline{\hspace{0.8cm}} & + & \underline{\hspace{0.8cm}} \\[6pt]
+\underline{\hspace{1.4cm}} & &
+\end{array}
+$$
 
-**2. (20 + 15) ÷ 5**
+**2. (20 + 15)/5**
 
-```text
-(__ ÷ 5) + (__ ÷ 5)
-__       + __
-__________
-```
+$$
+\begin{array}{lcl}
+(\frac{\underline{\hspace{0.8cm}}}{5}) & + & (\frac{\underline{\hspace{0.8cm}}}{5}) \\[6pt]
+\underline{\hspace{0.8cm}} & + & \underline{\hspace{0.8cm}} \\[6pt]
+\underline{\hspace{1.4cm}} & &
+\end{array}
+$$
 
-**3. (120 + 84) ÷ 6**
+**3. (120 + 84)/6**
 
-```text
-(__ ÷ 6) + (__ ÷ 6)
-__       + __
-__________
-```
+$$
+\begin{array}{lcl}
+(\frac{\underline{\hspace{0.8cm}}}{6}) & + & (\frac{\underline{\hspace{0.8cm}}}{6}) \\[6pt]
+\underline{\hspace{0.8cm}} & + & \underline{\hspace{0.8cm}} \\[6pt]
+\underline{\hspace{1.4cm}} & &
+\end{array}
+$$
 
 **Think:** Check one answer by adding inside the brackets first.
 
